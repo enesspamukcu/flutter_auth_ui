@@ -10,9 +10,10 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-![Screenshot_1647695524](https://user-images.githubusercontent.com/53400907/159122490-68959734-f6ee-42f8-9ac2-c66cc8042959.png)
-![Screenshot_1647695530](https://user-images.githubusercontent.com/53400907/159122493-85c309e8-8ab9-47e3-a0c3-8ff05819e6a5.png)
-![Screenshot_1647695536](https://user-images.githubusercontent.com/53400907/159122494-473b444c-db4f-4b7d-9004-a636faed674f.png)
+![signup](https://user-images.githubusercontent.com/53400907/159122772-d1b68268-b03d-48a1-a721-b311a9074b9f.png)
+![welcome](https://user-images.githubusercontent.com/53400907/159122773-8135d15b-21d2-4985-88ff-af9cc0014b47.png)
+![login](https://user-images.githubusercontent.com/53400907/159122774-686f4cd4-5d5b-4fa3-8c52-86f1749369d6.png)
+
 
 
 
